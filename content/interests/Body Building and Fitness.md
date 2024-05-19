@@ -1,0 +1,6 @@
+---
+aliases:
+  - fitness
+  - bodybuilding
+  - gym
+---
