@@ -168,7 +168,7 @@ dependencies:
     specifier: ^9.1.1
     version: 9.1.1
   ws:
-    specifier: ^8.15.1
+    specifier: ^8.17.0
     version: 8.17.0
   yargs:
     specifier: ^17.7.2
